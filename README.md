@@ -3,8 +3,10 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,19,22,27&height=180&section=header&text=MOHAMMAD%20HASNAIN%20RAZA&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
+
+<h1 align="center">MOHAMMAD HASNAIN RAZA</h1>
 
 <h3 align="center">🚀 Data Scientist | ML Engineer | Full-Stack Developer</h3>
 <h4 align="center">CS @ USC • ex-Deloitte • Building intelligent systems at scale</h4>
@@ -13,6 +15,10 @@
   <i>
     Turning messy data into models, models into systems, and systems into impact.
   </i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%E2%86%92+Models+%E2%86%92+Systems+%E2%86%92+Impact;ML+Engineering+%7C+Full-Stack+Systems+%7C+Scale" />
 </p>
 
 ---
@@ -39,18 +45,18 @@ I enjoy working at the intersection of **data, machine learning, and system desi
 
 ## 🔥 Featured Projects
 
-### ✈️ Project Vimaan — AI Voice Command NLU System
+### ✈️ Project Vimaan — AI Voice Command NLU System  
 **NLP • Transformers • Systems Integration**
 
 - Generated **30,000+ labeled voice commands** using schema-driven pipelines + Pegasus / FLAN-T5
 - Trained **DistilBERT** for joint intent classification & slot filling (offline, real-time inference)
 - Integrated NLU engine into **X-Plane simulator** with thread-safe IPC and TTS feedback
 
-🔗 *GitHub link here*
+🔗 https://github.com/hasnainrazaa03/Project-Vimaan
 
 ---
 
-### 🧬 Prana.ai — AI for Medical Imaging
+### 🧬 Prana.ai — AI for Medical Imaging  
 **ML • Computer Vision • Scalable Pipelines**
 
 - Built ML pipelines processing **5M+ MRI/CT scans** from 20+ hospitals
@@ -109,5 +115,5 @@ I enjoy working at the intersection of **data, machine learning, and system desi
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,19,22,27&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
